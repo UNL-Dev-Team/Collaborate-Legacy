@@ -1,0 +1,40 @@
+.image-format {
+  display: inline-block;
+  padding-right: 1em;
+  padding-left: 1em;
+  cursor: pointer;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12em;
+  height: 10em;
+}
+
+.home-icon {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: relative;
+  width: 2em;
+  height: 2em;
+}
+
+.home-title {
+  text-align: center;
+  font-weight: 300;
+  font-size: 4.2em;
+}
+
+.home-icons {
+  text-align: center;
+}
+
+.home-description {
+  text-align: center;
+  color: grey;
+  font-size: 1.3em;
+  font-weight: 300;
+}
